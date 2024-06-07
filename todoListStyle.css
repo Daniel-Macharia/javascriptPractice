@@ -1,0 +1,11 @@
+.time-label{
+    font-family: monospace;
+    font-size: 24px;
+    color: blue;
+}
+
+#time{
+    font-family: monospace;
+    font-size: 24px;
+    color: black;
+}
